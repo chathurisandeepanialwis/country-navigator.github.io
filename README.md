@@ -1,6 +1,6 @@
 🌍 **Country Navigator** 🌍
 
-This is a simple and interactive web app that lets users explore countries worldwide. It fetches real-time country data, including the flag, capital, population, region, and subregion, using the REST Countries API.
+This is a simple and interactive web app that lets users explore countries worldwide. It fetches country data, including the flag, capital, population, region, and subregion, using the REST Countries API.
 
 ## Live Demo https://chathurisandeepanialwis.github.io/country-navigator.github.io/
 
